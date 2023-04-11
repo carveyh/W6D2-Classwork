@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+gem 'activesupport'
+gem 'rspec', '~> 3.1.0'
+gem 'sqlite3'
+gem 'byebug'
+# Note: if sqlite3 was giving issues, just delete the Gemfile.lock that project came with to proceed
